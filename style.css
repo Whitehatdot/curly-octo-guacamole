@@ -1,0 +1,53 @@
+#imgone{
+    border-radius: 100px;
+    height:100px;
+}
+body
+{
+background-image: linear-gradient(to right, #cc2b5e , #753a88);
+}
+.one{
+    font-family: 'Koulen', cursive;
+    color:yellow;
+}
+html, body
+{
+  height: 100%;
+  margin: 0;
+}
+#login_button
+{
+	width: 80%;border-radius: 15px;
+}
+.login_div
+{
+	background: rgba(255,255,255,0.8);float: none;border-radius: 15px;  
+}
+.header
+{
+	color: white;font-family: 'Yeon Sung';font-size: 45px;letter-spacing: 10px;margin-top: 80px;
+}
+.color_white{
+  color: white;
+}
+#view{
+  border-radius: 30px;background-color: aquamarine;margin-top: 100px;margin-bottom: 50px;padding-left: 10px;padding-right:10px;padding-top: 5px;padding-bottom: 5px;
+}
+#make{
+  border-radius: 30px;background-color: burlywood;margin-top: 100px;margin-bottom: 50px;padding-left: 10px;padding-right:10px;padding-top: 5px;padding-bottom: 5px; 
+}
+#back
+{
+	font-size: 20px; float: right;
+}
+.make1{
+  border-radius: 30px;background-color: burlywood;padding-left: 10px;padding-right:10px;padding-top: 5px;padding-bottom: 5px; 
+}
+.main{
+  border-radius:15px;height:25px;width:250px;margin-top: 100px;
+}
+#two{
+  border-radius: 30px;background-color: burlywood;padding-left: 10px;padding-right:10px;padding-top: 5px;padding-bottom: 5px;
+}
+
+
